@@ -1,0 +1,135 @@
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.deps.json
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfo.cs
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CopyComplete
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\refint\School.Infra.Data.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.deps.json
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\bin\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CopyComplete
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.deps.json
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\bin\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CopyComplete
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\obj\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.deps.json
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\bin\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CopyComplete
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\obj\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.deps.json
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\bin\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CopyComplete
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.deps.json
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfo.cs
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CopyComplete
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\refint\School.Infra.Data.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Infra.Data\obj\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.deps.json
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\bin\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CopyComplete
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\obj\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.deps.json
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\bin\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CopyComplete
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\ref\School.Infra.Data.dll
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.deps.json
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\bin\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.AssemblyInfo.cs
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.csproj.CopyComplete
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\refint\School.Infra.Data.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\School.Infra.Data.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Infra.Data\obj\Debug\net6.0\ref\School.Infra.Data.dll

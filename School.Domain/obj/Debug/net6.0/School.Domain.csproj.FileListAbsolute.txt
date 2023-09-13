@@ -1,0 +1,108 @@
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\bin\Debug\net6.0\School.Domain.deps.json
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.csproj.AssemblyReference.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfo.cs
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\refint\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\bin\Debug\net6.0\School.Domain.deps.json
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\bin\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School\School.Domain\obj\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\bin\Debug\net6.0\School.Domain.deps.json
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\bin\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\obj\Debug\net6.0\School.Domain.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\obj\Debug\net6.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\obj\Debug\net6.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\obj\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\obj\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.3\School.Domain\obj\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\bin\Debug\net6.0\School.Domain.deps.json
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\bin\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\obj\Debug\net6.0\School.Domain.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\obj\Debug\net6.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\obj\Debug\net6.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\obj\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\obj\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.4\School.Domain\obj\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\bin\Debug\net6.0\School.Domain.deps.json
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\bin\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\bin\Debug\net6.0\School.Domain.deps.json
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.csproj.AssemblyReference.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfo.cs
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\refint\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\School.Domain.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.5\School.Domain\obj\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\bin\Debug\net6.0\School.Domain.deps.json
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\bin\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\obj\Debug\net6.0\School.Domain.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\obj\Debug\net6.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\obj\Debug\net6.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\obj\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\obj\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.6\School.Domain\obj\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\bin\Debug\net6.0\School.Domain.deps.json
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\bin\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.csproj.AssemblyReference.cache
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfo.cs
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\ref\School.Domain.dll
+C:\Users\leand\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\bin\Debug\net6.0\School.Domain.deps.json
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\bin\Debug\net6.0\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\bin\Debug\net6.0\School.Domain.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.csproj.AssemblyReference.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfoInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.AssemblyInfo.cs
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\refint\School.Domain.dll
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\School.Domain.pdb
+C:\Users\leandro.nakamura\Dropbox\Projetos\School V0.7\School.Domain\obj\Debug\net6.0\ref\School.Domain.dll

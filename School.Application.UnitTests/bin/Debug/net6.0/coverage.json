@@ -1,0 +1,1360 @@
+{
+  "School.Application.dll": {
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\ViewModels\\LoginUserViewModel.cs": {
+      "School.Application.ViewModels.LoginUserViewModel": {
+        "System.String School.Application.ViewModels.LoginUserViewModel::get_Email()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.ViewModels.LoginUserViewModel::get_Token()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Void School.Application.ViewModels.LoginUserViewModel::.ctor(System.String,System.String)": {
+          "Lines": {
+            "5": 0,
+            "6": 0,
+            "7": 0,
+            "8": 0,
+            "9": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\ViewModels\\ProfessorViewModel.cs": {
+      "School.Application.ViewModels.ProfessorViewModel": {
+        "System.Guid School.Application.ViewModels.ProfessorViewModel::get_Id()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.ViewModels.ProfessorViewModel::get_Name()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.ViewModels.ProfessorViewModel::get_DocumentNumber()": {
+          "Lines": {
+            "24": 0
+          },
+          "Branches": []
+        },
+        "School.Domain.Enums.EContractType School.Application.ViewModels.ProfessorViewModel::get_ContractType()": {
+          "Lines": {
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.ViewModels.ProfessorViewModel::get_ContractTypeDescription()": {
+          "Lines": {
+            "36": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean School.Application.ViewModels.ProfessorViewModel::get_IsActive()": {
+          "Lines": {
+            "42": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<School.Domain.Entities.Subject> School.Application.ViewModels.ProfessorViewModel::get_Subjects()": {
+          "Lines": {
+            "48": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\ViewModels\\UserViewModel.cs": {
+      "School.Application.ViewModels.UserViewModel": {
+        "System.Guid School.Application.ViewModels.UserViewModel::get_Id()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.ViewModels.UserViewModel::get_Email()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.ViewModels.UserViewModel::get_FullName()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.ViewModels.UserViewModel::get_Password()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 School.Application.ViewModels.UserViewModel::get_Access()": {
+          "Lines": {
+            "13": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.ViewModels.UserViewModel::get_Roles()": {
+          "Lines": {
+            "14": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean School.Application.ViewModels.UserViewModel::get_IsActive()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\Validators\\AddProfessorInputModelValidator.cs": {
+      "School.Application.Validators.AddProfessorInputModelValidator": {
+        "System.Void School.Application.Validators.AddProfessorInputModelValidator::.ctor()": {
+          "Lines": {
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\Services\\Implementations\\ProfessorServiceApp.cs": {
+      "School.Application.Services.Implementations.ProfessorServiceApp": {
+        "System.Void School.Application.Services.Implementations.ProfessorServiceApp::.ctor(School.Domain.Interfaces.Services.IProfessorDomainService)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Application.Services.Implementations.ProfessorServiceApp/<AddProfessorAsync>d__3": {
+        "System.Void School.Application.Services.Implementations.ProfessorServiceApp/<AddProfessorAsync>d__3::MoveNext()": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Application.Services.Implementations.ProfessorServiceApp/<DeleteByIdAsync>d__6": {
+        "System.Void School.Application.Services.Implementations.ProfessorServiceApp/<DeleteByIdAsync>d__6::MoveNext()": {
+          "Lines": {
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "60": 0,
+            "62": 0,
+            "64": 0,
+            "66": 0,
+            "67": 0
+          },
+          "Branches": [
+            {
+              "Line": 59,
+              "Offset": 175,
+              "EndOffset": 177,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 59,
+              "Offset": 175,
+              "EndOffset": 264,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "School.Application.Services.Implementations.ProfessorServiceApp/<EditProfessorAsync>d__4": {
+        "System.Void School.Application.Services.Implementations.ProfessorServiceApp/<EditProfessorAsync>d__4::MoveNext()": {
+          "Lines": {
+            "32": 0,
+            "33": 0,
+            "35": 0,
+            "36": 0,
+            "38": 0,
+            "40": 0,
+            "43": 0
+          },
+          "Branches": [
+            {
+              "Line": 35,
+              "Offset": 175,
+              "EndOffset": 177,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 35,
+              "Offset": 175,
+              "EndOffset": 264,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "School.Application.Services.Implementations.ProfessorServiceApp/<GetAllAsync>d__2": {
+        "System.Void School.Application.Services.Implementations.ProfessorServiceApp/<GetAllAsync>d__2::MoveNext()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Application.Services.Implementations.ProfessorServiceApp/<GetByIdAsync>d__5": {
+        "System.Void School.Application.Services.Implementations.ProfessorServiceApp/<GetByIdAsync>d__5::MoveNext()": {
+          "Lines": {
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0
+          },
+          "Branches": [
+            {
+              "Line": 49,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 49,
+              "Offset": 164,
+              "EndOffset": 250,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\Services\\Implementations\\UserServiceApp.cs": {
+      "School.Application.Services.Implementations.UserServiceApp": {
+        "System.Void School.Application.Services.Implementations.UserServiceApp::.ctor(School.Domain.Interfaces.Services.IUserDomainService,School.Domain.Interfaces.Services.IAuthDomainService)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Application.Services.Implementations.UserServiceApp/<AddUserAsync>d__6": {
+        "System.Void School.Application.Services.Implementations.UserServiceApp/<AddUserAsync>d__6::MoveNext()": {
+          "Lines": {
+            "51": 0,
+            "52": 0,
+            "53": 0,
+            "55": 0,
+            "57": 0,
+            "58": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Application.Services.Implementations.UserServiceApp/<DeleteByIdAsync>d__5": {
+        "System.Void School.Application.Services.Implementations.UserServiceApp/<DeleteByIdAsync>d__5::MoveNext()": {
+          "Lines": {
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "45": 0,
+            "47": 0,
+            "48": 0
+          },
+          "Branches": [
+            {
+              "Line": 40,
+              "Offset": 175,
+              "EndOffset": 177,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 40,
+              "Offset": 175,
+              "EndOffset": 264,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "School.Application.Services.Implementations.UserServiceApp/<EditUserAsync>d__7": {
+        "System.Void School.Application.Services.Implementations.UserServiceApp/<EditUserAsync>d__7::MoveNext()": {
+          "Lines": {
+            "61": 0,
+            "62": 0,
+            "64": 0,
+            "65": 0,
+            "67": 0,
+            "69": 0,
+            "72": 0
+          },
+          "Branches": [
+            {
+              "Line": 64,
+              "Offset": 175,
+              "EndOffset": 177,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 64,
+              "Offset": 175,
+              "EndOffset": 264,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "School.Application.Services.Implementations.UserServiceApp/<GetAllAsync>d__3": {
+        "System.Void School.Application.Services.Implementations.UserServiceApp/<GetAllAsync>d__3::MoveNext()": {
+          "Lines": {
+            "22": 0,
+            "23": 0,
+            "24": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Application.Services.Implementations.UserServiceApp/<GetByEmailAndPasswordAsync>d__8": {
+        "System.Void School.Application.Services.Implementations.UserServiceApp/<GetByEmailAndPasswordAsync>d__8::MoveNext()": {
+          "Lines": {
+            "75": 0,
+            "76": 0,
+            "78": 0,
+            "80": 0,
+            "81": 0,
+            "83": 0,
+            "85": 0,
+            "87": 0,
+            "88": 0
+          },
+          "Branches": [
+            {
+              "Line": 80,
+              "Offset": 208,
+              "EndOffset": 210,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 80,
+              "Offset": 208,
+              "EndOffset": 245,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "School.Application.Services.Implementations.UserServiceApp/<GetByIdAsync>d__4": {
+        "System.Void School.Application.Services.Implementations.UserServiceApp/<GetByIdAsync>d__4::MoveNext()": {
+          "Lines": {
+            "27": 0,
+            "28": 0,
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0
+          },
+          "Branches": [
+            {
+              "Line": 30,
+              "Offset": 164,
+              "EndOffset": 166,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 30,
+              "Offset": 164,
+              "EndOffset": 250,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\Mappers\\ProfessorMapper.cs": {
+      "School.Application.Mappers.ProfessorMapper": {
+        "School.Domain.Entities.Professor School.Application.Mappers.ProfessorMapper::ToProfessor(School.Application.InputModels.AddProfessorInputModel)": {
+          "Lines": {
+            "10": 0,
+            "11": 0,
+            "12": 0
+          },
+          "Branches": []
+        },
+        "School.Application.ViewModels.ProfessorViewModel School.Application.Mappers.ProfessorMapper::ToProfessorVM(School.Domain.Entities.Professor)": {
+          "Lines": {
+            "15": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<School.Application.ViewModels.ProfessorViewModel> School.Application.Mappers.ProfessorMapper::ToProfessorsVM(System.Collections.Generic.IEnumerable`1<School.Domain.Entities.Professor>)": {
+          "Lines": {
+            "29": 0,
+            "30": 0,
+            "32": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "45": 0,
+            "46": 0
+          },
+          "Branches": [
+            {
+              "Line": 32,
+              "Offset": 136,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 32,
+              "Offset": 136,
+              "EndOffset": 138,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\Mappers\\UserMapper.cs": {
+      "School.Application.Mappers.UserMapper": {
+        "School.Domain.Entities.User School.Application.Mappers.UserMapper::ToUser(School.Application.InputModels.AddUserInputModel)": {
+          "Lines": {
+            "11": 0,
+            "12": 0,
+            "13": 0
+          },
+          "Branches": []
+        },
+        "School.Application.ViewModels.UserViewModel School.Application.Mappers.UserMapper::ToUserViewModel(School.Domain.Entities.User)": {
+          "Lines": {
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<School.Application.ViewModels.UserViewModel> School.Application.Mappers.UserMapper::ToUsersVM(System.Collections.Generic.IEnumerable`1<School.Domain.Entities.User>)": {
+          "Lines": {
+            "30": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "47": 0,
+            "49": 0,
+            "50": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 137,
+              "EndOffset": 17,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 137,
+              "EndOffset": 139,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\InputModels\\AddProfessorInputModel.cs": {
+      "School.Application.InputModels.AddProfessorInputModel": {
+        "System.String School.Application.InputModels.AddProfessorInputModel::get_Name()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.InputModels.AddProfessorInputModel::get_DocumentNumber()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "School.Domain.Enums.EContractType School.Application.InputModels.AddProfessorInputModel::get_ContractType()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<System.Guid> School.Application.InputModels.AddProfessorInputModel::get_Subjects()": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\InputModels\\AddUserInputModel.cs": {
+      "School.Application.InputModels.AddUserInputModel": {
+        "System.String School.Application.InputModels.AddUserInputModel::get_FullName()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.InputModels.AddUserInputModel::get_Email()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.InputModels.AddUserInputModel::get_Password()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "School.Domain.Enums.EAccess School.Application.InputModels.AddUserInputModel::get_Acccess()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\InputModels\\EditProfessorInputModel.cs": {
+      "School.Application.InputModels.EditProfessorInputModel": {
+        "System.String School.Application.InputModels.EditProfessorInputModel::get_Name()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.InputModels.EditProfessorInputModel::get_DocumentNumber()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "School.Domain.Enums.EContractType School.Application.InputModels.EditProfessorInputModel::get_ContractType()": {
+          "Lines": {
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean School.Application.InputModels.EditProfessorInputModel::get_IsActive()": {
+          "Lines": {
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<System.Guid> School.Application.InputModels.EditProfessorInputModel::get_Subjects()": {
+          "Lines": {
+            "35": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\InputModels\\EditUserInputModel.cs": {
+      "School.Application.InputModels.EditUserInputModel": {
+        "System.String School.Application.InputModels.EditUserInputModel::get_Password()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.InputModels.EditUserInputModel::get_ConfirmPassword()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.InputModels.EditUserInputModel::get_Roles()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean School.Application.InputModels.EditUserInputModel::get_IsActive()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Application\\InputModels\\LoginUserInputModel.cs": {
+      "School.Application.InputModels.LoginUserInputModel": {
+        "System.String School.Application.InputModels.LoginUserInputModel::get_Email()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Application.InputModels.LoginUserInputModel::get_Password()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "School.Domain.dll": {
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Domain\\Validations\\Professors\\NewProfessorValidation.cs": {
+      "School.Domain.Validations.Professors.NewProfessorValidation": {
+        "System.Void School.Domain.Validations.Professors.NewProfessorValidation::.ctor()": {
+          "Lines": {
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Domain\\Services\\AuthDomainService.cs": {
+      "School.Domain.Services.AuthDomainService": {
+        "System.String School.Domain.Services.AuthDomainService::ComputeSha256Hash(System.String)": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "24": 0,
+            "27": 0,
+            "29": 0,
+            "30": 0,
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "36": 0
+          },
+          "Branches": [
+            {
+              "Line": 29,
+              "Offset": 76,
+              "EndOffset": 36,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 29,
+              "Offset": 76,
+              "EndOffset": 78,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.String School.Domain.Services.AuthDomainService::GenerateJwtToken(System.String,System.String)": {
+          "Lines": {
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "46": 0,
+            "47": 0,
+            "48": 0,
+            "49": 0,
+            "50": 0,
+            "52": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "56": 0,
+            "57": 0,
+            "59": 0,
+            "61": 0,
+            "63": 0,
+            "64": 0
+          },
+          "Branches": []
+        },
+        "System.Void School.Domain.Services.AuthDomainService::.ctor(Microsoft.Extensions.Configuration.IConfiguration)": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Domain\\Services\\ProfessorDomainService.cs": {
+      "School.Domain.Services.ProfessorDomainService": {
+        "System.Void School.Domain.Services.ProfessorDomainService::Dispose(System.Boolean)": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0
+          },
+          "Branches": [
+            {
+              "Line": 13,
+              "Offset": 9,
+              "EndOffset": 13,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 13,
+              "Offset": 9,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void School.Domain.Services.ProfessorDomainService::Dispose()": {
+          "Lines": {
+            "20": 0,
+            "21": 0,
+            "22": 0,
+            "23": 0
+          },
+          "Branches": []
+        },
+        "System.Void School.Domain.Services.ProfessorDomainService::.ctor(School.Domain.Interfaces.Repositories.IProfessorRepository`1<School.Domain.Entities.Professor>)": {
+          "Lines": {
+            "8": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Domain.Services.ProfessorDomainService/<AddProfessorAsync>d__5": {
+        "System.Void School.Domain.Services.ProfessorDomainService/<AddProfessorAsync>d__5::MoveNext()": {
+          "Lines": {
+            "31": 0,
+            "32": 0,
+            "34": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "39": 0,
+            "40": 0,
+            "41": 0,
+            "43": 0,
+            "44": 0,
+            "45": 0,
+            "46": 0,
+            "48": 0,
+            "49": 0
+          },
+          "Branches": [
+            {
+              "Line": 36,
+              "Offset": 191,
+              "EndOffset": 196,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 36,
+              "Offset": 191,
+              "EndOffset": 350,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "School.Domain.Services.ProfessorDomainService/<DeleteAsync>d__8": {
+        "System.Void School.Domain.Services.ProfessorDomainService/<DeleteAsync>d__8::MoveNext()": {
+          "Lines": {
+            "62": 0,
+            "63": 0,
+            "64": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Domain.Services.ProfessorDomainService/<GetAllAsync>d__6": {
+        "System.Void School.Domain.Services.ProfessorDomainService/<GetAllAsync>d__6::MoveNext()": {
+          "Lines": {
+            "52": 0,
+            "53": 0,
+            "54": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Domain.Services.ProfessorDomainService/<GetByIdAsync>d__7": {
+        "System.Void School.Domain.Services.ProfessorDomainService/<GetByIdAsync>d__7::MoveNext()": {
+          "Lines": {
+            "57": 0,
+            "58": 0,
+            "59": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Domain.Services.ProfessorDomainService/<UpdateAsync>d__9": {
+        "System.Void School.Domain.Services.ProfessorDomainService/<UpdateAsync>d__9::MoveNext()": {
+          "Lines": {
+            "67": 0,
+            "68": 0,
+            "70": 0,
+            "72": 0,
+            "73": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0,
+            "78": 0,
+            "79": 0,
+            "80": 0,
+            "82": 0,
+            "83": 0,
+            "84": 0,
+            "85": 0,
+            "87": 0,
+            "88": 0
+          },
+          "Branches": [
+            {
+              "Line": 73,
+              "Offset": 200,
+              "EndOffset": 202,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 73,
+              "Offset": 200,
+              "EndOffset": 231,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 254,
+              "EndOffset": 259,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 75,
+              "Offset": 254,
+              "EndOffset": 413,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 0
+            }
+          ]
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Domain\\Services\\UserDomainService.cs": {
+      "School.Domain.Services.UserDomainService": {
+        "System.Void School.Domain.Services.UserDomainService::Dispose(System.Boolean)": {
+          "Lines": {
+            "66": 0,
+            "67": 0,
+            "68": 0,
+            "70": 0,
+            "71": 0
+          },
+          "Branches": [
+            {
+              "Line": 67,
+              "Offset": 9,
+              "EndOffset": 13,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            },
+            {
+              "Line": 67,
+              "Offset": 9,
+              "EndOffset": 20,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            }
+          ]
+        },
+        "System.Void School.Domain.Services.UserDomainService::Dispose()": {
+          "Lines": {
+            "74": 0,
+            "75": 0,
+            "76": 0,
+            "77": 0
+          },
+          "Branches": []
+        },
+        "System.Void School.Domain.Services.UserDomainService::.ctor(School.Domain.Interfaces.Repositories.IUserRepository`1<School.Domain.Entities.User>)": {
+          "Lines": {
+            "9": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Domain.Services.UserDomainService/<AddUserAsync>d__5": {
+        "System.Void School.Domain.Services.UserDomainService/<AddUserAsync>d__5::MoveNext()": {
+          "Lines": {
+            "28": 0,
+            "29": 0,
+            "31": 0,
+            "33": 0,
+            "34": 0,
+            "35": 0,
+            "36": 0,
+            "37": 0,
+            "38": 0,
+            "40": 0,
+            "41": 0,
+            "42": 0,
+            "43": 0,
+            "46": 0,
+            "47": 0
+          },
+          "Branches": [
+            {
+              "Line": 33,
+              "Offset": 184,
+              "EndOffset": 189,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 33,
+              "Offset": 184,
+              "EndOffset": 343,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 0
+            }
+          ]
+        }
+      },
+      "School.Domain.Services.UserDomainService/<DeleteAsync>d__7": {
+        "System.Void School.Domain.Services.UserDomainService/<DeleteAsync>d__7::MoveNext()": {
+          "Lines": {
+            "61": 0,
+            "62": 0,
+            "63": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Domain.Services.UserDomainService/<GetAllAsync>d__3": {
+        "System.Void School.Domain.Services.UserDomainService/<GetAllAsync>d__3::MoveNext()": {
+          "Lines": {
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Domain.Services.UserDomainService/<GetByEmailAndPasswordAsync>d__10": {
+        "System.Void School.Domain.Services.UserDomainService/<GetByEmailAndPasswordAsync>d__10::MoveNext()": {
+          "Lines": {
+            "80": 0,
+            "81": 0,
+            "82": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Domain.Services.UserDomainService/<GetByIdAsync>d__4": {
+        "System.Void School.Domain.Services.UserDomainService/<GetByIdAsync>d__4::MoveNext()": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0
+          },
+          "Branches": []
+        }
+      },
+      "School.Domain.Services.UserDomainService/<UpdateAsync>d__6": {
+        "System.Void School.Domain.Services.UserDomainService/<UpdateAsync>d__6::MoveNext()": {
+          "Lines": {
+            "50": 0,
+            "51": 0,
+            "53": 0,
+            "54": 0,
+            "55": 0,
+            "57": 0,
+            "58": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Domain\\Entities\\EntityBase.cs": {
+      "School.Domain.Entities.EntityBase": {
+        "System.Guid School.Domain.Entities.EntityBase::get_Id()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime School.Domain.Entities.EntityBase::get_Created()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime School.Domain.Entities.EntityBase::get_LastUpdate()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean School.Domain.Entities.EntityBase::get_IsActive()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        },
+        "System.Boolean School.Domain.Entities.EntityBase::get_IsDeleted()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Void School.Domain.Entities.EntityBase::Delete()": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Domain\\Entities\\Professor.cs": {
+      "School.Domain.Entities.Professor": {
+        "System.String School.Domain.Entities.Professor::get_Name()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Domain.Entities.Professor::get_DocumentNumber()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "School.Domain.Enums.EContractType School.Domain.Entities.Professor::get_ContractType()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.IEnumerable`1<School.Domain.Entities.Subject> School.Domain.Entities.Professor::get_Subjects()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "System.Void School.Domain.Entities.Professor::Update(System.String,System.String,System.Boolean,School.Domain.Enums.EContractType)": {
+          "Lines": {
+            "23": 0,
+            "24": 0,
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0
+          },
+          "Branches": []
+        },
+        "System.Void School.Domain.Entities.Professor::.ctor(System.String,System.String,School.Domain.Enums.EContractType)": {
+          "Lines": {
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Domain\\Entities\\ResultResponse.cs": {
+      "School.Domain.Entities.ResultResponse`1": {
+        "School.Domain.Enums.EStatusCode School.Domain.Entities.ResultResponse`1::get_StatusCode()": {
+          "Lines": {
+            "6": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Domain.Entities.ResultResponse`1::get_ErrorMessage()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "T School.Domain.Entities.ResultResponse`1::get_Data()": {
+          "Lines": {
+            "8": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Domain\\Entities\\Subject.cs": {
+      "School.Domain.Entities.Subject": {
+        "System.String School.Domain.Entities.Subject::get_Name()": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Domain\\Entities\\User.cs": {
+      "School.Domain.Entities.User": {
+        "System.String School.Domain.Entities.User::get_FullName()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Domain.Entities.User::get_Email()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Domain.Entities.User::get_Password()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        },
+        "School.Domain.Enums.EAccess School.Domain.Entities.User::get_Access()": {
+          "Lines": {
+            "21": 0
+          },
+          "Branches": []
+        },
+        "System.String School.Domain.Entities.User::get_Roles()": {
+          "Lines": {
+            "22": 0
+          },
+          "Branches": []
+        },
+        "System.Void School.Domain.Entities.User::Update(System.String,System.String,System.Boolean)": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0,
+            "28": 0,
+            "29": 0,
+            "30": 0
+          },
+          "Branches": []
+        },
+        "System.Void School.Domain.Entities.User::.ctor(System.String,System.String,System.String,School.Domain.Enums.EAccess)": {
+          "Lines": {
+            "7": 0,
+            "8": 0,
+            "9": 0,
+            "10": 0,
+            "11": 0,
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  },
+  "School.Domain.UnitTests.dll": {
+    "C:\\Users\\leandro.nakamura\\.nuget\\packages\\microsoft.net.test.sdk\\17.3.2\\build\\netcoreapp2.1\\Microsoft.NET.Test.Sdk.Program.cs": {
+      "AutoGeneratedProgram": {
+        "System.Void AutoGeneratedProgram::Main(System.String[])": {
+          "Lines": {
+            "4": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Domain.UnitTests\\Entities\\ProfessorTests.cs": {
+      "Tests.School.Domain.UnitTests.Entities.ProfessorTests": {
+        "System.Void Tests.School.Domain.UnitTests.Entities.ProfessorTests::TestIfProfessorIsActive()": {
+          "Lines": {
+            "12": 0,
+            "13": 0,
+            "14": 0,
+            "16": 0,
+            "17": 0,
+            "18": 0,
+            "19": 0,
+            "20": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "C:\\Users\\leandro.nakamura\\Dropbox\\Projetos\\School V0.7\\School.Domain.UnitTests\\Builders\\ProfessorBuilder.cs": {
+      "School.Domain.UnitTests.Builders.ProfessorBuilder": {
+        "School.Domain.UnitTests.Builders.ProfessorBuilder School.Domain.UnitTests.Builders.ProfessorBuilder::New()": {
+          "Lines": {
+            "14": 0,
+            "15": 0,
+            "16": 0
+          },
+          "Branches": []
+        },
+        "School.Domain.UnitTests.Builders.ProfessorBuilder School.Domain.UnitTests.Builders.ProfessorBuilder::WithName(System.String)": {
+          "Lines": {
+            "19": 0,
+            "20": 0,
+            "21": 0,
+            "22": 0
+          },
+          "Branches": []
+        },
+        "School.Domain.Entities.Professor School.Domain.UnitTests.Builders.ProfessorBuilder::Build()": {
+          "Lines": {
+            "25": 0,
+            "26": 0,
+            "27": 0
+          },
+          "Branches": []
+        },
+        "System.Void School.Domain.UnitTests.Builders.ProfessorBuilder::.ctor()": {
+          "Lines": {
+            "9": 0,
+            "10": 0,
+            "11": 0
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}
